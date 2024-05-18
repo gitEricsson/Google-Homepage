@@ -164,3 +164,48 @@ button:first-of-type {
 .attribution a:active {
   text-decoration: underline;
 }
+
+@media screen and (max-width: 900px) {
+  body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    width: 100%;
+    padding: 0 0;
+  }
+
+  nav {
+    text-align: right;
+    padding-right: 2rem;
+    padding-top: 1rem;
+  }
+
+  .wrapper {
+    width: 100%;
+    margin-top: 2.4rem;
+  }
+
+  .wrapper > img {
+    right: 15%;
+  }
+
+  #search-box {
+    width: 70%;
+  }
+
+  #dropdown-application-card {
+    width: 20rem;
+    padding: 0.7rem;
+    z-index: 3000;
+    right: 1rem;
+    text-align: center;
+    background-color: white;
+  }
+
+  section {
+    padding-top: 30%;
+  }
+
+  .attribution {
+    margin-top: 22rem;
+  }
+}
