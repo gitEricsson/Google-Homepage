@@ -6,7 +6,7 @@
   - [About](#about)
   - [The Challenge](#the-challenge)
   - [Updates](#updates)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -29,7 +29,10 @@ My goal was to recreate EdYoda's Google Homepage Website
 
 ### Screenshot
 
-![screenshot1](https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_Homepage.svg)
+![screenshot1](./screenshots/Screenshot1.jpeg)
+![screenshot2](./screenshots/Screenshot2.jpeg)
+![screenshot3](./screenshots/Screenshot3.jpeg)
+![screenshot4](./screenshots/Screenshot4.jpeg)
 
 ### Links
 
